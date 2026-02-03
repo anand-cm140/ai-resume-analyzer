@@ -1,0 +1,8 @@
+[theme]
+base = "dark"
+
+primaryColor = "#22c55e"        # green accent
+backgroundColor = "#0f172a"     # dark navy
+secondaryBackgroundColor = "#020617"
+textColor = "#e5e7eb"
+font = "sans serif"
